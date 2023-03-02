@@ -1,11 +1,10 @@
 {
   "name": "hotelapp",
   "version": "1.0.0",
-  "description": "",
+  "description": "",https://github.com/Sayan-Batabyal/scalar-backend/blob/main/package.json
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "nodemon index.js"
   },
   "author": "",
   "license": "ISC",
@@ -13,5 +12,5 @@
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "mongoose": "^7.0.0"
-  },"proxy":"http://localhost:8800/api"
+  }
 }
