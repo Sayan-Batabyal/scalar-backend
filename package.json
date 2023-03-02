@@ -1,7 +1,7 @@
 {
   "name": "hotelapp",
   "version": "1.0.0",
-  "description": "",https://github.com/Sayan-Batabyal/scalar-backend/blob/main/package.json
+  "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
